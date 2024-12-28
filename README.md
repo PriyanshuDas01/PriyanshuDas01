@@ -1,5 +1,5 @@
 # 💫 About Me:
-About Me 👋  <br><br>- Hackathon enthusiast with expertise in AI, Native apps, Unity Game dev and Web development.  <br>- Skilled in building real-time web apps with Next.js, AWS, and other services.  <br>- Exploring Unity 3D for immersive game development.  <br>- Passionate about creating impactful solutions for Welfare, Agriculture, Safety analytics, and Quick commerce. <br>-Passionate for open source contribution <br>- Open to collaboration and innovation-driven projects! 🚀  
+ <br><br>- Hackathon enthusiast with expertise in AI, Native apps, Unity Game dev and Web development.  <br>- Skilled in building real-time web apps with Next.js, AWS, and other services.  <br>- Exploring Unity 3D for immersive game development.  <br>- Passionate about creating impactful solutions for Welfare, Agriculture, Safety analytics, and Quick commerce. <br>-Passionate for open source contribution <br>- Open to collaboration and innovation-driven projects! 🚀  
 
 
 ## 🌐 Socials:
